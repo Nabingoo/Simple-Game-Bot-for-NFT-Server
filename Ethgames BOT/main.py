@@ -286,4 +286,4 @@ async def wheelspin(ctx):
                 embed.set_author(name=ctx.author.display_name, icon_url=ctx.author.avatar.url)
                 await ctx.send(ctx.author.mention,embed=embed) 
 
-bot.run("OTY4NjU4MjI4MzM2NTMzNTM0.YmiDRg.EXHUwBTPCU4_NFv9E7c8vd9gjm4")
+bot.run("TOKEN")
